@@ -3,3 +3,5 @@
 *.json
 *.zip
 *.xlsx
+/build/
+.DS_Store
