@@ -1,6 +1,5 @@
 *.html
 *.png
-*.json
 *.zip
 *.xlsx
 /build/
