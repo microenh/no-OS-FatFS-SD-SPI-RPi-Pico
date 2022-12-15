@@ -17,4 +17,5 @@
   "cmake.sourceDirectory": "${workspaceFolder}/example",
   "cortex-debug.openocdPath.windows": "${env:PICO_SDK_PATH}/..\\tools\\openocd-picoprobe",
   "cortex-debug.openocdPath.osx": "${env:PICO_SDK_PATH}/../openocd/src/openocd",
+  "cortex-debug.openocdPath": "",
 }
